@@ -1,0 +1,4 @@
+Nombre
+Correo
+Telefono
+Contraseña
